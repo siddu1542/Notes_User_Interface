@@ -1,0 +1,28 @@
+{
+    "root": "./",
+    "title": "UIKit Fundamentals with Bob Lecture Notes",
+    "author": "Bob Lee",
+    "description": "Intermediate Swift3 and iOS10 Cousre Notes",
+    "isbn": "",
+
+    "plugins": [
+      "exercises",
+      "youtube",
+      "prism",
+      "-highlight",
+      "katex",
+      "new-flowchart",
+      "image-captions"
+    ],
+
+    "pluginsConfig": {
+        "prism": {
+    },
+      "image-captions": {
+            "caption": " _CAPTION_"
+        }
+    },
+    "styles": {
+      "website": "website.css"
+    }
+}
